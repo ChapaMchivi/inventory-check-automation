@@ -1,5 +1,10 @@
 # **Inventory Check Automation**
 
+## 🎥 Inventory Check Automation Demo  
+
+[🎥 Watch the demo video](assets/inventory-demo.mp4)
+
+>>>>>>> b4da4308c7a2bba5e7ca6c0fbb46c879001dd484
 An automated weekly inventory auditing system built with **n8n**, **Google Gemini**, and **Google Sheets**. This workflow checks stock levels, identifies items below their threshold, generates an AI‑crafted alert message, and emails a consolidated low‑stock report. It removes manual review, reduces errors, and ensures timely restocking decisions.
 
 ---

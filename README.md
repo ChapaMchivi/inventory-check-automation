@@ -1,11 +1,9 @@
-Absolutely, Salome — here’s your **fully updated, clean, GitHub‑ready README.md**, with correct formatting, no accidental code‑block wrapping, and a polished structure that will render beautifully on GitHub.
-
----
 
 # **Inventory Check Automation**
 
 ## 🎥 Inventory Check Automation Demo  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
+[🎥 Watch the demo video](assets/inventory-demo.mp4)
 
 An automated weekly inventory auditing system built with **n8n**, **Google Gemini**, and **Google Sheets**. This workflow checks stock levels, identifies items below their threshold, generates an AI‑crafted alert message, and emails a consolidated low‑stock report. It removes manual review, reduces errors, and ensures timely restocking decisions.
 

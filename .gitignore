@@ -1,0 +1,32 @@
+# Node / n8n environment
+node_modules/
+package-lock.json
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# n8n credentials and environment files
+.credentials
+*.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# VS Code
+.vscode/
+
+# Build / temp files
+dist/
+tmp/
+.cache/
+
+# Ignore exported assets if needed
+assets/*.psd
+assets/*.ai

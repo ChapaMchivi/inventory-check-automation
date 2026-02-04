@@ -94,5 +94,3 @@ inventory-check-automation/
 MIT License
 ```
 
----
-# inventory-check-automation
